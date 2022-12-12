@@ -21,7 +21,7 @@ model:
     - 'AS9726-32D'
     - 'Wedge100BF-32X'
     - 'Wedge100BF-65X'
-    - 'test-12'
+    - 'test-1'
   onie:
     - 'AS5835-54X'
     - 'AS4224-52P'
@@ -29,7 +29,7 @@ model:
     - 'AS4564-26P'
     - 'AS4630-54NPE'
     - 'AS8060-32X'
-    - 'test-1234'
+    - 'test-12345'
   simba:
     - 'ECS4100-12PH'
     - 'ECS4110-28T'
