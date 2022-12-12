@@ -1,5 +1,6 @@
 model:
   sonic:
+    - 'Jenkins'
     - 'AS4224-52P'
     - 'AS4224-52T'
     - 'AS4564-26P'
