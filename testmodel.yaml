@@ -20,27 +20,6 @@ platform:
       - 'AS9726-32D'
       - 'Wedge100BF-32X'
       - 'Wedge100BF-65X'
-    td_array:
-      T1:
-        - 'SONiC_CoS'
-        - 'SONiC_IPv6'
-        - 'SONiC_IPv6_ACL'
-        - 'SONiC_IncrementalConfig'
-        - 'SONiC_MAC_Aging'
-        - 'SONiC_PFC'
-        - 'SONiC_PFC_WM'
-        - 'SONiC_Scaling_Factors'
-        - 'SONiC_SSD_Diag'
-        - 'SONiC_Sysdump'
-        - 'SONiC_TACACSPLUS'
-        - 'SONiC_VLANTrunk'
-        - 'SONiC_VRF'
-        - 'SONiC_WRED_ECN'
-      T2:
-        - 'SONiC_BGP_MP'
-        - 'SONiC_VLANTrunk'
-        - 'SONiC_ECMP'
-        - 'SONiC_Scaling_Factors'
   onie:
     model_name:
       - 'AS4224-52P'
@@ -62,9 +41,6 @@ platform:
       - 'AS9726-32D'
       - 'Wedge100BF-32X'
       - 'Wedge100BF-65X'
-    td_array:
-      T1:
-        - 'ONIE'
   simba:
     model_name:
       - 'AS5835-54T'
@@ -78,43 +54,7 @@ platform:
       - 'ECS4130-28T'
       - 'ECS5520-18T'
       - 'ECS5520-18X'
-    td_array:
-      T1:
-        - 'AMTR'
-        - 'CLI_Terminal'
-        - 'DHCP_Snooping'
-        - 'IPv4_AddrConfig'
-        - 'Mirror_PortBased'
-        - 'RateLimit'
-        - 'SNMP'
-        - 'SSHv2'
-        - 'StormCtrl_Bcast'
-        - '1QVLAN'
-      T2:
-        - '802dot1X'
-        - '802dot1X_DACL'
-        - '802dot1X_DQoS'
-        - '802dot1X_DVLAN'
-        - '802dot1X_GVLAN'
-        - 'LACP'
-        - 'MAC_Auth'
-        - 'PortTrunk'
   anos:
     model_name:
       - 'AS5835-54X'
       - 'AS4630-54TE'
-    td_array:
-      T1:
-        - 'ANOS_1QVLAN'
-        - 'ANOS_ACL'
-        - 'ANOS_AMTR'
-        - 'ANOS_IPv4_StaticRoute'
-        - 'ANOS_Mirror_PortBased'
-        - 'ANOS_Policy'
-        - 'ANOS_QinQ'
-        - 'ANOS_SNMP'
-        - 'ANOS_Statistics'
-      T2:
-        - 'ANOS_Policy'
-        - 'ANOS_IPv4_StaticRoute'
-        - 'ANOS_QinQ'
