@@ -1,6 +1,6 @@
 model_name:
   AS4224-52P:
-    sonic: True
+    sonic: yes
     onie: True
     simba: False
     anos: False
