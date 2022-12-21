@@ -1,108 +1,108 @@
 model_name:
-  - 'AS4224-52P'
+  AS4224-52P:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS4224-52T'
+  AS4224-52T:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS4564-26P'
+  AS4564-26P:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS4630-54NPE'
+  AS4630-54NPE:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS4630-54PE'
+  AS4630-54PE:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS4630-54TE'
+  AS4630-54TE:
     platform:
       - 'sonic'
       - 'onie'
       - 'anos'
-  - 'AS5812-54X'
+  AS5812-54X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS5835-54T'
+  AS5835-54T:
     platform:
       - 'sonic'
       - 'onie'
       - 'simba'
-  - 'AS5835-54X'
+  AS5835-54X:
     platform:
       - 'sonic'
       - 'onie'
       - 'simba'
       - 'anos'
-  - 'AS7326-56X'
+  AS7326-56X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS7712-32X'
+  AS7712-32X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS7726-32X'
+  AS7726-32X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS7816-64X'
+  AS7816-64X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS8000'
+  AS8000:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS9516-32D'
+  AS9516-32D:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS9716-32D'
+  AS9716-32D:
     platform:
       - 'sonic'
       - 'onie'
-  - 'AS9726-32D'
+  AS9726-32D:
     platform:
       - 'sonic'
       - 'onie'
-  - 'Wedge100BF-32X'
+  Wedge100BF-32X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'Wedge100BF-65X'
+  Wedge100BF-65X:
     platform:
       - 'sonic'
       - 'onie'
-  - 'ECS2100-52T'
+  ECS2100-52T:
     platform:
       - 'simba'
-  - 'ECS4100-12T'
+  ECS4100-12T:
     platform:
       - 'simba'
-  - 'ECS4100-12PH'
+  ECS4100-12PH:
     platform:
       - 'simba'
-  - 'ECS4110-28T'
+  ECS4110-28T:
     platform:
       - 'simba'
-  - 'ECS4125-10P'
+  ECS4125-10P:
     platform:
       - 'simba'
-  - 'ECS4130-12PD'
+  ECS4130-12PD:
     platform:
       - 'simba'
-  - 'ECS4130-28T'
+  ECS4130-28T:
     platform:
       - 'simba'
-  - 'ECS5520-18T'
+  ECS5520-18T:
     platform:
       - 'simba'
-  - 'ECS5520-18X'
+  ECS5520-18X:
     platform:
       - 'simba'
