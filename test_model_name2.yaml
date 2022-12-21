@@ -1,57 +1,141 @@
 model:
   name: AS4224-52P
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS4224-52T
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS4564-26P
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS4630-54NPE
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS4630-54PE
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS4630-54TE
-    platform: [sonic, onie, anos]
+    sonic: True
+    onie: True
+    simba: False
+    anos: True
   name: AS5812-54X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS5835-54T
-    platform: [sonic, onie, simba]
+    sonic: True
+    onie: True
+    simba: True
+    anos: False
   name: AS5835-54X
-    platform: [sonic, onie, simba, anos]
+    sonic: True
+    onie: True
+    simba: True
+    anos: True
   name: AS7326-56X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS7712-32X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS7726-32X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS7816-64X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS8000
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS9516-32D
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS9716-32D
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: AS9726-32D
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: Wedge100BF-32X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: Wedge100BF-65X
-    platform: [sonic, onie]
+    sonic: True
+    onie: True
+    simba: False
+    anos: False
   name: ECS2100-52T
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS4100-12T
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS4100-12PH
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS4110-28T
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS4125-10P
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS4130-12PD
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS4130-28T
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS5520-18T
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
   name: ECS5520-18X
-    platform: [simba]
+    sonic: False
+    onie: False
+    simba: True
+    anos: False
