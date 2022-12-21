@@ -1,57 +1,57 @@
 model:
-  - name: AS4224-52P
+  name: AS4224-52P
     platform: [sonic, onie]
-  - name: AS4224-52T
+  name: AS4224-52T
     platform: [sonic, onie]
-  - name: AS4564-26P
+  name: AS4564-26P
     platform: [sonic, onie]
-  - name: AS4630-54NPE
+  name: AS4630-54NPE
     platform: [sonic, onie]
-  - name: AS4630-54PE
+  name: AS4630-54PE
     platform: [sonic, onie]
-  - name: AS4630-54TE
+  name: AS4630-54TE
     platform: [sonic, onie, anos]
-  - name: AS5812-54X
+  name: AS5812-54X
     platform: [sonic, onie]
-  - name: AS5835-54T
+  name: AS5835-54T
     platform: [sonic, onie, simba]
-  - name: AS5835-54X
+  name: AS5835-54X
     platform: [sonic, onie, simba, anos]
-  - name: AS7326-56X
+  name: AS7326-56X
     platform: [sonic, onie]
-  - name: AS7712-32X
+  name: AS7712-32X
     platform: [sonic, onie]
-  - name: AS7726-32X
+  name: AS7726-32X
     platform: [sonic, onie]
-  - name: AS7816-64X
+  name: AS7816-64X
     platform: [sonic, onie]
-  - name: AS8000
+  name: AS8000
     platform: [sonic, onie]
-  - name: AS9516-32D
+  name: AS9516-32D
     platform: [sonic, onie]
-  - name: AS9716-32D
+  name: AS9716-32D
     platform: [sonic, onie]
-  - name: AS9726-32D
+  name: AS9726-32D
     platform: [sonic, onie]
-  - name: Wedge100BF-32X
+  name: Wedge100BF-32X
     platform: [sonic, onie]
-  - name: Wedge100BF-65X
+  name: Wedge100BF-65X
     platform: [sonic, onie]
-  - name: ECS2100-52T
+  name: ECS2100-52T
     platform: [simba]
-  - name: ECS4100-12T
+  name: ECS4100-12T
     platform: [simba]
-  - name: ECS4100-12PH
+  name: ECS4100-12PH
     platform: [simba]
-  - name: ECS4110-28T
+  name: ECS4110-28T
     platform: [simba]
-  - name: ECS4125-10P
+  name: ECS4125-10P
     platform: [simba]
-  - name: ECS4130-12PD
+  name: ECS4130-12PD
     platform: [simba]
-  - name: ECS4130-28T
+  name: ECS4130-28T
     platform: [simba]
-  - name: ECS5520-18T
+  name: ECS5520-18T
     platform: [simba]
-  - name: ECS5520-18X
+  name: ECS5520-18X
     platform: [simba]
