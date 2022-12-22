@@ -1,141 +1,140 @@
-model_name:
-  AS4224-52P:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS4224-52T:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS4564-26P:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS4630-54NPE:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS4630-54PE:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS4630-54TE:
-    sonic: True
-    onie: True
-    simba: False
-    anos: True
-  AS5812-54X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS5835-54T:
-    sonic: True
-    onie: True
-    simba: True
-    anos: False
-  AS5835-54X:
-    sonic: True
-    onie: True
-    simba: True
-    anos: True
-  AS7326-56X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS7712-32X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS7726-32X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS7816-64X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS8000:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS9516-32D:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS9716-32D:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  AS9726-32D:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  Wedge100BF-32X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  Wedge100BF-65X:
-    sonic: True
-    onie: True
-    simba: False
-    anos: False
-  ECS2100-52T:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS4100-12T:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS4100-12PH:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS4110-28T:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS4125-10P:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS4130-12PD:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS4130-28T:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS5520-18T:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
-  ECS5520-18X:
-    sonic: False
-    onie: False
-    simba: True
-    anos: False
+AS4224-52P:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS4224-52T:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS4564-26P:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS4630-54NPE:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS4630-54PE:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS4630-54TE:
+  sonic: True
+  onie: True
+  simba: False
+  anos: True
+AS5812-54X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS5835-54T:
+  sonic: True
+  onie: True
+  simba: True
+  anos: False
+AS5835-54X:
+  sonic: True
+  onie: True
+  simba: True
+  anos: True
+AS7326-56X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS7712-32X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS7726-32X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS7816-64X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS8000:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS9516-32D:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS9716-32D:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS9726-32D:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+Wedge100BF-32X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+Wedge100BF-65X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+ECS2100-52T:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS4100-12T:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS4100-12PH:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS4110-28T:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS4125-10P:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS4130-12PD:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS4130-28T:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS5520-18T:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
+ECS5520-18X:
+  sonic: False
+  onie: False
+  simba: True
+  anos: False
