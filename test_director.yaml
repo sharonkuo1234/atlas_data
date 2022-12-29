@@ -2,14 +2,7 @@ T1:
   sonic: [SONiC_CoS, SONiC_IPv6, SONiC_IPv6_ACL, SONiC_IncrementalConfig, SONiC_MAC_Aging, SONiC_PFC, SONiC_PFC_WM, SONiC_Scaling_Factors, SONiC_SSD_Diag, SONiC_Sysdump, SONiC_TACACSPLUS, SONiC_VLANTrunk, SONiC_VRF, SONiC_WRED_ECN]
   simba: [1QVLAN, AMTR, CLI_Terminal, DHCP_Snooping, IPv4_AddrConfig, Mirror_PortBased, RateLimit, SNMP, SSHv2, StormCtrl_Bcast]
   onie: [ONIE]
-  anos:
-    - 'ANOS_1QVLAN'
-    - 'ANOS_ACL'
-    - 'ANOS_AMTR'
-    - 'ANOS_IPv4_StaticRoute'
-    - 'ANOS_Mirror_PortBased'
-    - 'ANOS_QinQ'
-    - 'ANOS_Statistics'
+  anos: [ANOS_1QVLAN, ANOS_ACL, ANOS_AMTR, ANOS_IPv4_StaticRoute, ANOS_Mirror_PortBased, ANOS_QinQ, ANOS_Statistics]
 T2:
   sonic: [SONiC_BGP_MP, SONiC_VLANTrunk, SONiC_ECMP, SONiC_Scaling_Factors]
   simba: [802dot1X, 802dot1X_DACL, 802dot1X_DQoS, 802dot1X_DVLAN, 802dot1X_GVLAN, LACP, MAC_Auth,PortTrunk]
