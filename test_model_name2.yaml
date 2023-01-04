@@ -43,11 +43,21 @@ AS5835-54X:
   onie: True
   simba: True
   anos: True
-AS7326-56X:
+AS5916-54XL:
   sonic: True
   onie: True
   simba: False
   anos: False
+AS5916-54XKS:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS7326-56X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: True
 AS7712-32X:
   sonic: True
   onie: True
@@ -68,6 +78,21 @@ AS8000:
   onie: True
   simba: False
   anos: False
+AS8060-32X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS8064-32X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS8460-32X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
 AS9516-32D:
   sonic: True
   onie: True
@@ -79,6 +104,26 @@ AS9716-32D:
   simba: False
   anos: False
 AS9726-32D:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AS9736-64D:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+ASCvOLT16:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+AZ3380-52X:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
+CA120-32X:
   sonic: True
   onie: True
   simba: False
