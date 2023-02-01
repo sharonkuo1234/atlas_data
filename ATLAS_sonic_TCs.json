@@ -1,0 +1,3440 @@
+[
+    {
+        "TC ID": "ANOS-1QVLAN-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0180",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0210",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0220",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0230",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0240",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0250",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0260",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0270",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0280",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0290",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0320",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0330",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0340",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0350",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0360",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0370",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0380",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0390",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0400",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0410",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0420",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0430",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0440",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0450",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0460",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0480",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0490",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0500",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0510",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0520",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0530",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0540",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0550",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0560",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0570",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0580",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0590",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0600",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0610",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0620",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0700",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0710",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0720",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0730",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0740",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0790",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0800",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0810",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0820",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0830",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0840",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0850",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0860",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0870",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-1QVLAN-0880",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0180",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0210",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0220",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0230",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0240",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0250",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0260",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0270",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0280",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0290",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0300",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0310",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0320",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0330",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0340",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0350",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0360",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0370",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0380",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0390",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0400",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0410",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0420",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0430",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0440",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0450",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0460",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0470",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0480",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0490",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0500",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0510",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0520",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0530",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0540",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0550",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0560",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0570",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0580",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0590",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0600",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0610",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0620",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0630",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": false,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0640",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0650",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0660",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0670",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0680",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0690",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0700",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0710",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0720",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0730",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0740",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0750",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0760",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0770",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0780",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0790",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0800",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0810",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0820",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0830",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0840",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0850",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0860",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0870",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0880",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0890",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0900",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0910",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0920",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0930",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0940",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0950",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0960",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0970",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0980",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-0990",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1000",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-ACL-1150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-AMTR-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T2"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": false,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": false,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0180",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0210",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0220",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0230",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0240",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-IPv4-StaticRoute-0250",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T2"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-LLDP-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0180",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Mirror-PortBased-0250",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0150",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0180",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0210",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0220",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0230",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0240",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0260",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0270",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0280",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0290",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0300",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0320",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0330",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0340",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0350",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0360",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0380",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0390",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0400",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0410",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0420",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0440",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0450",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0460",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0470",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0480",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0500",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0510",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0520",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0530",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0540",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0550",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0560",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0570",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0580",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0590",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Policy-0600",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T2"
+    },
+    {
+        "TC ID": "ANOS-QinQ-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T2"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0140",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0160",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-sFlow-0230",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0050",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-Statistics-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0010",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0020",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0030",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0040",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0060",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0070",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0080",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0090",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0100",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0110",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0120",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0130",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0170",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0180",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0190",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0200",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0210",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0220",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0230",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0240",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0250",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0260",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0270",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0280",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0290",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0300",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0310",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0320",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0340",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0350",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0360",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0370",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0400",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0420",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0430",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0440",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0450",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0460",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0470",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0480",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0510",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    },
+    {
+        "TC ID": "ANOS-SNMP-0530",
+        "Platform": "anos",
+        "CPU x86": true,
+        "CPU PPC": true,
+        "Auto Test": true,
+        "Auto Ready": true,
+        "Topology": "T1"
+    }
+]
