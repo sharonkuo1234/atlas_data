@@ -123,6 +123,11 @@ AZ3380-52X:
   onie: True
   simba: False
   anos: False
+AZ8564:
+  sonic: True
+  onie: True
+  simba: False
+  anos: False
 CA120-32X:
   sonic: True
   onie: True
